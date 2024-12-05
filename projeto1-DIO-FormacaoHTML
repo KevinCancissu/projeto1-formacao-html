@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./CSS-DIO/assets/css/style-projeto1.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="inicio"><strong>Formação HTML Developer</strong></h1>
+    <h2>Neste Curso você aprenderá o necessário para iniciar na carreira de Front-end Developer</h2>
+    <P>O HTML (Hypertext Markup Language) é a linguagem de marcação básica utilizada para criar e estruturar conteúdo na web. Ele define a estrutura das páginas da internet, organizando texto, imagens, links, tabelas, formulários, entre outros elementos. Aqui está o básico sobre HTML:</P>
+    <ul>
+        <li><a href="#estrutura-html"> Estrutura Básica do HTML</a></li>
+        <li><a href="#tags-html"> Principais Tags do HTML</a></li>
+        <li><a href="#atributos"> Atributos</a></li>
+    </ul>
+    <h2 id="estrutura-html">Estrutura Básica do HTML</h2>
+    <p>Um documento HTML é composto por tags (ou elementos), que são responsáveis por organizar o conteúdo. Cada tag tem um significado e pode ter atributos que controlam seu comportamento ou aparência. A estrutura básica de um documento HTML é a seguinte:</p>
+    <img src="https://neilpatel.com/wp-content/uploads/2017/12/codigos-html-para-paginas-web.jpeg" alt="estrutura-img">
+    <h2 id="tags-html">Principais Tags do HTML</h2>
+    <p>Aqui estão algumas das tags mais comuns e importantes:</p>
+    <ul>
+        <li><strong>HTML:</strong> Tag raiz do documento HTML.</li>
+        <li><strong>HEAD:</strong> Contém informações sobre a página, como metadados, título, links para arquivos CSS e scripts..</li>
+        <li><strong>BODY:</strong> Contém o conteúdo visível da página, como texto, imagens, links e outros elementos interativos.</li>
+        <li><strong>P:</strong> Define um parágrafo.</li>
+    </ul>
+    <img src="https://image.slidesharecdn.com/aula01-conceitosdehtml-220912010929-74498ed6/75/AULA-01-Conceitos-de-HTML-pptx-5-2048.jpg" alt="tags-img">
+    <h2 id="atributos">Atributos</h2>
+    <p>As tags podem ter atributos, que são usados para fornecer informações adicionais sobre os elementos. Por exemplo:</p>
+    <p>Os atributos em HTML são informações adicionais que podem ser adicionadas a elementos HTML para controlar seu comportamento, estilo, ou fornecer mais informações sobre o conteúdo. Eles sempre vêm após o nome da tag e são escritos na forma de nome="valor". Atributos são essenciais para personalizar e controlar a funcionalidade de uma página web.</p>
+   <a href="#inicio">Voltar ao topo</a>
+
+</body>
+</html>
